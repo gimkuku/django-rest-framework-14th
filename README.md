@@ -1,6 +1,7 @@
 # django-docker
 django를 Docker & Github Action으로 배포해봅시다.
 
+수정수정
 # 환경
 - docker 
 - docker-compose
